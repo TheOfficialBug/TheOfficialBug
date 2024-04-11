@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-👨‍💻I'm currently working at Holoworld as an SDE(XR Developer)<br>🤝Looking forward to colab on AR/VR projects and also F1 Race Analysis<br>🌱I'm currently learning about F1 Race Graphs and Telementry🏎️<br>😹Fun Fact (anime) - Originally Naruto was originally supposed to be a chef - not a fox!
+👨‍💻I'm currently working at Holoworld as an SDE(XR Developer)<br>🤝Looking forward to colab on AR/VR projects and also F1 Race Analysis<br>🌱I'm currently learning about F1 Race Graphs and Telementry🏎️<br>Looking for help with Formula 1 Cars Stats Analysis<br>😹Fun Fact (anime) - Originally Naruto was originally supposed to be a chef - not a fox!
 
 
 ## 🌐 Socials:
